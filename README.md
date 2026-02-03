@@ -23,7 +23,6 @@ Aplikasi ini ditujukan untuk membantu pengurus masjid dalam mengelola keuangan h
 ### 📊 Rekap
 
 * Saldo kas otomatis
-* Rekap harian / bulanan
 * Riwayat pemasukan & pengeluaran
 
 ---
@@ -42,8 +41,8 @@ Aplikasi ini ditujukan untuk membantu pengurus masjid dalam mengelola keuangan h
 
 Aplikasi dapat dibuat menggunakan:
 
-* Web / Mobile sederhana
-* Database lokal / cloud
+* Vue JS
+* Local Storage
 
 ---
 
